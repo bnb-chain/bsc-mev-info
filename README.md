@@ -6,7 +6,7 @@ of validators and builders.
 ## Usage
 
 For validators:
-1. Add your validator's sentry address and public RPC URL in the `{validator-alias}.toml` file, see an example at mainnet/validators/example.toml.
+1. Add your validator's consensus address and public RPC URL in the `{validator-alias}.toml` file, see an example at mainnet/validators/example.toml.
 2. Put the file in specific directory.
 3. Submit a PR to the main branch.
 
