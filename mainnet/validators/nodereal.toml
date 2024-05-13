@@ -1,0 +1,4 @@
+Address = "0x5009317fd4f6f8feea9dae41e5f0a4737bb7a7d5"
+RPC = "https://bsc-mainnet-mev.nodereal.io"
+Website = "https://nodereal.io/"
+Description = "Advanced Infrastructure Provider for EVM blockchains."

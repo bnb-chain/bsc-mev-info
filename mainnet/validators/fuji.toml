@@ -1,0 +1,3 @@
+Address = "0xbdcc079bbb23c1d9a6f36aa31309676c258abac7"
+RPC = "https://bsc-mainnet-mev.fujihash.io"
+Description = "The is fuji org on BSC network."
