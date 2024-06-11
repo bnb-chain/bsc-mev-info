@@ -1,0 +1,3 @@
+Address = "0xb4647b856cb9c3856d559c885bed8b43e0846a47"
+RPC = "https://bsc-mev-mainnet.certikrpc.io"
+Description = "The is certik org on BSC network."
