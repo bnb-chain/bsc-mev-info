@@ -1,0 +1,5 @@
+Address = "0x3aD6121407f6EDb65C8B2a518515D45863C206A8"
+RPC = "https://rpc.bsc-eu.jetbldr.xyz"
+Website = "https://jetbldr.xyz/"
+Description = "JetBuilder on BSC network"
+Contact = "hi@jetbldr.xyz"
