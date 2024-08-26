@@ -1,3 +1,3 @@
 Address = "0x0f28847cfdbf7508b13ebb9ceb94b2f1b32e9503"
-URL = "https://bscmev.raptastech.io"
+RPC = "https://bscmev.raptastech.io"
 Description = "This is raptas org on BSC network."
