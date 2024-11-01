@@ -1,0 +1,4 @@
+Address = "0x0d79A7a614E863649E78f9627c22aa471C94000E"
+RPC = "https://bsc-api.mevbundle.com"
+Website = "https://mevbundle.com"
+Description = "Bundle Service for BSC blockchain"
