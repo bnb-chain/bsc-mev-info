@@ -1,0 +1,5 @@
+Address = "0x9F1Ee17EFf51C1D67b6F815D291e5fadB45C0fE9"
+RPC = "https://bsc-builder.ata.network"
+Website = "https://ata.network"
+Description = "Automata-powered TEE Builder for the BSC network"
+Contact = "team@ata.network"
