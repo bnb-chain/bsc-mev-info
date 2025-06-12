@@ -1,0 +1,5 @@
+Address = "0x5EC60f73f938e36400ec3CC3Ff4d7a7703F7c005"
+RPC = "https://bsc-testnet-builder-ap.bnbchain.org"
+EVNNodeIDs = [
+"6f266c2913633e029a990959580221202df80c5e1a0df1c2566f4eb55da2ff742c2ff85f9e00dd97511ccc6c46f63e780789abffcb3bcc2c619006c366ddea67"
+]

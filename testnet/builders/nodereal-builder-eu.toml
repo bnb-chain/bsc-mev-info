@@ -1,0 +1,5 @@
+Address = "0x6C98EB21139F6E12db5b78a4AeD4d8eBA147FB7b"
+RPC = "https://bsc-testnet-builder-eu.nodereal.io"
+EVNNodeIDs = [
+"3e55ffb100453c42a27e03c895501ef20a96f751b81f4dad8e1851822d9d571f8ebf6d9fef06e828b69e3b67a8e8bae60ce8e996e521051f07ed01c35bbdc6d9"
+]

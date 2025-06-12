@@ -1,2 +1,6 @@
 Address = "0x79102dB16781ddDfF63F301C9Be557Fd1Dd48fA0"
 RPC = "https://bsc-testnet-builder.bnbchain.org"
+Description = "this builder is in us region."
+EVNNodeIDs = [
+"29f812180266614735cbd2924944b785b21cf75119c79e0e74a3cb648bdc2c7fe9a1ed7e944793312eb251f4beb975d0fb8fd6dee2dde4f56cce1808abf463a6",
+]
