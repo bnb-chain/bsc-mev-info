@@ -1,7 +1,0 @@
-Address = "0x4827b423D03a349b7519Dda537e9A28d31ecBB48"
-RPC = "https://puissant-testnet-ap.48.club"
-EVNNodeIDs = [
-    "66852c5cccb4c492e9181300cbdcc7928f955dda5d0135daba60ccfe7c14a573",
-    "41c0796107cb3ad43b03f8e1648c2b7c20026418474ff827a6fa6b9cedf5c38a",
-    "e54afd76da05164d3670f414d8cec65bcdb13f1597cbd30d4ce16d364493202d",
-]

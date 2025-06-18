@@ -1,0 +1,38 @@
+# BSC Testnet Validator List
+# This file contains information about various validators on the BSC testnet
+
+[example]
+Address = "0x04d6...73F197ccd186"
+RPC = "https://example-rpc.validator.io"
+Website = "https://example-validator.io"
+Description = "This is a example validator on BSC network"
+Contact = "example-validator@mail.com"
+
+[legend]
+Address = "0x90409F56966B5da954166eB005Cb1A8790430BA1"
+RPC = "https://legend-testnet.directstaking.com"
+Contact = "legend@directstaking.com"
+
+[elbrus]
+Address = "0x1a3d9D7A717D64e6088aC937d5aAcDD3E20ca963"
+RPC = "https://bsc-testnet-elbrus.bnbchain.org"
+
+[ararat]
+Address = "0x08265dA01E1A65d62b903c7B34c08cB389bF3D99"
+RPC = "https://bsc-testnet-ararat.bnbchain.org"
+
+[everest]
+Address = "0xd447b49CD040D20BC21e49ffEa6487F5638e4346"
+RPC = "https://bsc-testnet-everest.bnbchain.org"
+
+[seoraksan]
+Address = "0x76D76ee8823dE52A1A431884c2ca930C5e72bff3"
+RPC = "https://bsc-testnet-seoraksan.bnbchain.org"
+
+[kita]
+Address = "0x7f5f2cF1aec83bF0c74DF566a41aa7ed65EA84Ea"
+RPC = "https://bsc-testnet-kita.bnbchain.org"
+
+[fuji]
+Address = "0x53387F3321FD69d1E030BB921230dFb188826AFF"
+RPC = "https://bsc-testnet-fuji.bnbchain.org"
