@@ -62,13 +62,6 @@ Description = "This is coinlix org on BSC network."
 Address = "0x460a252b4feefa821d3351731220627d7b7d1f3d"
 RPC = "https://bsc-mev.defibit.io"
 
-[example]
-Address = "0x04d6...73F197ccd186"
-RPC = "https://example-rpc.validator.io"
-Website = "https://example-validator.io"
-Description = "This is a example validator on BSC network"
-Contact = "example-validator@mail.com"
-
 [figment]
 Address = "0x75B851a27D7101438F45fce31816501193239A83"
 RPC = "https://bsc-mainet-sentry-1.staking.production.figment.io"
