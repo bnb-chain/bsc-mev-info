@@ -1,0 +1,213 @@
+# BSC Mainnet Validator List
+# This file contains information about various validators on the BSC mainnet
+
+# Example validator entry
+[example]
+Address = "0x04d6...73F197ccd186"
+RPC = "https://example-rpc.validator.io"
+Website = "https://example-validator.io"
+Description = "This is a example validator on BSC network"
+Contact = "example-validator@mail.com"
+
+[48Club]
+Address = "0x8A239732871AdC8829EA2f47e94087C5FBad47b6"
+RPC = "https://builder-relay.48.club"
+Website = "https://www.48.club/validation-node"
+TelegramGroup = "https://t.me/+nhIQNj5G3lY2M2U9"
+Description = "Join the dedicated Telegram Group for integrating with 48Club partner validators"
+Contact = "validators@48.club"
+
+[Ankr]
+Address = "0xe7776De78740f28a96412eE5cbbB8f90896b11A5"
+RPC = "https://bnbmev.ankr.com"
+Website = "https://www.ankr.com"
+Description = "Ankr Staking - makes staking, liquid staking, and other yield-earning opportunities easy and accessible to any crypto investor."
+
+[axion]
+Address = "0xc2d534f079444e6e7ff9dabb3fd8a26c607932c8"
+URL = "https://rpc-bsc-mev.blockaxion.io"
+Description = ""
+
+[bnbeve]
+Address = "0xD3b0d838cCCEAe7ebF1781D11D1bB741DB7Fe1A7"
+RPC = "https://bsc-mev.bbbnnnbbb.net"
+Description = "The is BNBEve Node."
+
+[bscscan]
+Address = "0x502aecfe253e6aa0e8d2a06e12438ffed0fe16a0"
+RPC = "https://rpc.bscscanmev.io"
+Description = "Your Gateway to the BNB Smart Chain Network. BscScan is the leading BSC Block Chain Explorer and one of the earliest independent project built and developed for the BNB Smart Chain"
+
+[certik]
+Address = "0xb4647b856cb9c3856d559c885bed8b43e0846a47"
+RPC = "https://bsc-mev-mainnet.certikrpc.io"
+Description = "The is certik org on BSC network."
+
+[ciscox]
+Address = "0x025a4e09ea947b8d695f53ddfdd48ddb8f9b06b7"
+URL = "https://mev.ciscox.io"
+Description = ""
+
+[coda]
+Address = "0xa0884bb00e5f23fe2427f0e5ec9e51f812848563"
+URL = "https://bsc.codacore.io"
+Description = ""
+
+[coinlix]
+Address = "0x73a26778ef9509a6e94b55310ee7233795a9eb25"
+URL = "https://bnbmev.coinlix.dev"
+Description = "This is coinlix org on BSC network."
+
+[defibit]
+Address = "0x460a252b4feefa821d3351731220627d7b7d1f3d"
+RPC = "https://bsc-mev.defibit.io"
+
+[figment]
+Address = "0x75B851a27D7101438F45fce31816501193239A83"
+RPC = "https://bsc-mainet-sentry-1.staking.production.figment.io"
+RPC = "https://bsc-mainet-sentry-2.staking.production.figment.io"
+
+[fuji]
+Address = "0xbdcc079bbb23c1d9a6f36aa31309676c258abac7"
+RPC = "https://bsc-mainnet-mev.fujihash.io"
+Description = "The is fuji org on BSC network."
+
+[glorin]
+Address = "0xfd85346c8c991bac16b9c9157e6bdfdace1cd7d7"
+RPC = "https://rpc-bsc-mev.glorinbnb.io"
+Description = "This is glorin org on BSC network."
+
+[hashkey]
+Address = "0x4e5acf9684652BEa56F2f01b7101a225Ee33d23f"
+RPC = "https://fk-mev.hashkey.cloud"
+Website = "https://www.hashkey.cloud/"
+Description = "HashKey Cloud, as a leading provider of global Web3 infrastructure and a core member of the HashKey Group, focuses on delivering professional, stable, and secure blockchain services to clients worldwide. Since 2018, we have been deeply committed to blockchain infrastructure technologies, with our node validation services covering over 50 mainstream public chains and continuous exploration into Ethereum Layer2 and Bitcoin Lightning Network technologies."
+Contact = "contact@hashkey.cloud"
+
+[Legend-I]
+Address = "0x58567F7A51a58708C8B40ec592A38bA64C0697De"
+URL = "https://legend-i.directstaking.com"
+Contact = "legend@directstaking.com"
+
+[Legend-II]
+Address = "0x37e9627A91DD13e453246856D58797Ad6583D762"
+URL = "https://legend-ii.directstaking.com"
+Contact = "legend@directstaking.com"
+
+[Legend-III]
+Address = "0x7E1FdF03Eb3aC35BF0256694D7fBe6B6d7b3E0c8"
+URL = "https://legend-iii.directstaking.com"
+Contact = "legend@directstaking.com"
+
+[Legend-IV]
+Address = "0xE9436F6F30b4B01b57F2780B2898f3820EbD7B98"
+URL = "https://legend-iv.directstaking.com"
+Contact = "legend@directstaking.com"
+
+[Legend-IX]
+Address = "0x9F7110Ba7EdFda83Fc71BeA6BA3c0591117b440D"
+URL = "https://legend-ix.directstaking.com"
+Contact = "legend@directstaking.com"
+
+[Legend-V]
+Address = "0x1579ca96EBd49A0B173f86C372436ab1AD393380"
+URL = "https://legend-v.directstaking.com"
+Contact = "legend@directstaking.com"
+
+[Legend-VI]
+Address = "0xd1F72d433f362922f6565FC77c25e095B29141c8"
+URL = "https://legend-vi.directstaking.com"
+Contact = "legend@directstaking.com"
+
+[Legend-VII]
+Address = "0x4d15D9BCd0c2f33E7510c0de8b42697CA558234a"
+URL = "https://legend-vii.directstaking.com"
+Contact = "legend@directstaking.com"
+
+[Legend-VIII]
+Address = "0xf9814D93b4d904AaA855cBD4266D6Eb0Ec1Aa478"
+URL = "https://legend-viii.directstaking.com"
+Contact = "legend@directstaking.com"
+
+[Lista]
+Address = "0x0dC5e1CAe4d364d0C79C9AE6BDdB5DA49b10A7d9"
+RPC = "https://validator.lista.org"
+
+[ListaDao2]
+Address = "0xE554F591cCFAc02A84Cf9a5165DDF6C1447Cc67D"
+RPC = "https://validator-2.lista.org"
+
+[ListaDao3]
+Address = "0x059a8BFd798F29cE665816D12D56400Fa47DE028"
+RPC = "https://validator-3.lista.org"
+
+[mathwallet]
+Address = "0x7b501c7944185130dd4ad73293e8aa84effdcee7"
+URL = "https://rpc.mathwallet-mev.io"
+Description = "MATH is a multi-chain and cross-chain blockchain assets hub, and its products including MathWallet, MATH VPoS Pool, MathDAppStore, MathStaking, MathCustody, MathNFT, MathChain, MathHub, MathDEX, MathID, MathPay etc. MATH also operates nodes for many POS chains."
+
+[namelix]
+Address = "0xf8de5e61322302b2c6e0a525cc842f10332811bf"
+RPC = "https://bnbmev.namelixtech.io"
+
+[nexa]
+Address = "0xd849d1df66bff1c2739b4399425755c2e0fabbab"
+URL = "https://rpc-mev-nexa.fujihash.io"
+
+[nodereal]
+Address = "0x5009317fd4f6f8feea9dae41e5f0a4737bb7a7d5"
+RPC = "https://bsc-mainnet-mev.nodereal.io"
+Website = "https://nodereal.io/"
+Description = "Advanced Infrastructure Provider for EVM blockchains."
+
+[novax]
+Address = "0x978f05ced39a4eafa6e8fd045fe2dd6da836c7df"
+URL = "https://rpc-mev-novax.fujihash.io"
+
+[nozti]
+Address = "0x18c44f4fbede9826c7f257d500a65a3d5a8edebc"
+URL = "https://rpc-bsc-mev.noztinano.io"
+Description = ""
+
+[pexmons]
+Address = "0xa2d969e82524001cb6a2357dbf5922b04ad2fcd8"
+URL = "https://bnbmev.pexmons.io"
+Description = "This is pexmons org on BSC network."
+
+[raptas]
+Address = "0x0f28847cfdbf7508b13ebb9ceb94b2f1b32e9503"
+URL = "https://bscmev.raptastech.io"
+Description = "This is raptas org on BSC network."
+
+[seoraksan]
+Address = "0xb997bf1e3b96919fba592c1f61ce507e165ec030"
+URL = "https://bnbmev.seoraksan.io"
+Description = "This is seoraksan org on BSC network."
+
+[sigm8]
+Address = "0x286c1b674d48cff67b4096b6c1dc22e769581e91"
+URL = "https://bscmev.sigm8.io"
+Description = "This is sigm8 org on BSC network."
+
+[star]
+Address = "0xa015d9e9206859c13201bb3d6b324d6634276534"
+URL = "https://rpc-mev-star.coinlix.dev"
+
+[tiollo]
+Address = "0xa100fcd08ce722dc68ddc3b54237070cb186f118"
+URL = "https://rpc-mev.tiolloval.io"
+Description = ""
+
+[twstaking]
+Address = "0x9f1b7fae54be07f4fee34eb1aacb39a1f7b6fc92"
+URL = "https://bsc-mainnet-mev.rocketsup.org/"
+Description = ""
+
+[veri]
+Address = "0x5adde0151bfab27f329e5112c1aedeed7f0d3692"
+URL = "https://rpc-mev-veri.coinlix.dev"
+
+[zen]
+Address = "0x5cf810ab8c718ac065b45f892a5badab2b2946b9"
+URL = "https://bscmev.zennano.io"
+Description = ""
