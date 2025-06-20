@@ -1,0 +1,98 @@
+# BSC Testnet Builder List
+# This file contains information about various builders on the BSC testnet
+
+[example]
+Source = "testnet/builders/example.toml"
+Address = "0x04d6...73F197ccd186"
+RPC = "https://rpc-builder.io"
+Website = "https://example-builder.io"
+Description = "This is the fastest builder on BSC network"
+Contact = "example-builder@mail.com"
+EVNNodeIDs = [
+  "0011223344556677889900112233445566778899001122334455667788990000",
+  "0011223344556677889900112233445566778899001122334455667788990011"
+]
+
+[48club-puissant-builder-ap]
+Address = "0x4827b423D03a349b7519Dda537e9A28d31ecBB48"
+RPC = "https://puissant-testnet-ap.48.club"
+EVNNodeIDs = [
+  "66852c5cccb4c492e9181300cbdcc7928f955dda5d0135daba60ccfe7c14a573",
+  "41c0796107cb3ad43b03f8e1648c2b7c20026418474ff827a6fa6b9cedf5c38a",
+  "e54afd76da05164d3670f414d8cec65bcdb13f1597cbd30d4ce16d364493202d"
+]
+
+[48club-puissant-builder-eu]
+Address = "0x48B2665E5E9a343409199D70F7495c8aB660BB48"
+RPC = "https://puissant-testnet-eu.48.club"
+EVNNodeIDs = [
+  "66852c5cccb4c492e9181300cbdcc7928f955dda5d0135daba60ccfe7c14a573",
+  "41c0796107cb3ad43b03f8e1648c2b7c20026418474ff827a6fa6b9cedf5c38a",
+  "e54afd76da05164d3670f414d8cec65bcdb13f1597cbd30d4ce16d364493202d"
+]
+
+[48club-puissant-builder-us]
+Address = "0x48B4bBEbF0655557A461e91B8905b85864B8BB48"
+RPC = "https://puissant-testnet-us.48.club"
+EVNNodeIDs = [
+  "66852c5cccb4c492e9181300cbdcc7928f955dda5d0135daba60ccfe7c14a573",
+  "41c0796107cb3ad43b03f8e1648c2b7c20026418474ff827a6fa6b9cedf5c38a",
+  "e54afd76da05164d3670f414d8cec65bcdb13f1597cbd30d4ce16d364493202d"
+]
+
+[blockrazor-builder-ap]
+Address = "0x0eAbBdE133fbF3c5eB2BEE6F7c8210deEAA0f7db"
+RPC = "https://test.builder.blockrazor.io"
+EVNNodeIDs = [
+  "d6a8a79b20e69b5cbbbf87bb37142bbe4d16d64ef129e209bccfb5bbec278d68"
+]
+
+[blockrazor-builder-eu]
+Address = "0x95c8436143c82Ea4d3529A3ed8DDa9998F6daC5F"
+RPC = "https://test.builder.blockrazor.io"
+EVNNodeIDs = [
+  "18efcfd7499fc30b9e0280d65f41676cb82f35390a7b5cb48f59063951b6d854"
+]
+
+[blockrazor-builder-us]
+Address = "0xb71Ba9e570ee20E983De1d5aE01baf5dCB4e4299"
+RPC = "https://test.builder.blockrazor.io"
+EVNNodeIDs = [
+  "6b0baadb6daf1abcc45ac56161adadb2ad931a270dcbb5dd7e20157917609848"
+]
+
+[ararat-builder-us]
+Address = "0x5b67a234592331e85fC57Bb148769c1d2fF62520"
+RPC = "https://bsc-testnet-builder.bnbchain.org"
+Description = "this builder is in us region."
+EVNNodeIDs = [
+  "29f812180266614735cbd2924944b785b21cf75119c79e0e74a3cb648bdc2c7fe9a1ed7e944793312eb251f4beb975d0fb8fd6dee2dde4f56cce1808abf463a6"
+]
+
+[fuji-builder-ap]
+Address = "0x5EC60f73f938e36400ec3CC3Ff4d7a7703F7c005"
+RPC = "https://bsc-testnet-builder-ap.bnbchain.org"
+EVNNodeIDs = [
+  "6f266c2913633e029a990959580221202df80c5e1a0df1c2566f4eb55da2ff742c2ff85f9e00dd97511ccc6c46f63e780789abffcb3bcc2c619006c366ddea67"
+]
+
+[nodereal-builder-eu]
+Address = "0x6C98EB21139F6E12db5b78a4AeD4d8eBA147FB7b"
+RPC = "https://bsc-testnet-builder-eu.nodereal.io"
+EVNNodeIDs = [
+  "3e55ffb100453c42a27e03c895501ef20a96f751b81f4dad8e1851822d9d571f8ebf6d9fef06e828b69e3b67a8e8bae60ce8e996e521051f07ed01c35bbdc6d9"
+]
+
+[bloxroute-builder]
+Address = "0xA8caEc0D68a90Ac971EA1aDEFA1747447e1f9871"
+RPC = "https://bsc-builder.testnet.blxrbdn.com"
+Website = "https://bloxroute.com"
+Contact = "support@bloxroute.com"
+EVNNodeIDs = [
+  "1e1f5f92143ce6c59868132192a296c726290685b81d8d4c0f6f5379cac0399c"
+]
+
+[trustnet-builder]
+Source = "testnet/builders/trustnet-builder.toml"
+Address = "0x7b3ee856c98b1bb3689ef7f90477df2927fcbdb6"
+RPC = "http://18.179.226.190:8575"
