@@ -273,26 +273,13 @@ Website = "https://jetbldr.xyz/"
 Description = "JetBuilder on BSC network"
 Contact = "hi@jetbldr.xyz"
 
-[jetbldr-x]
+[jetbldr-virginia]
 Address = "0xA0Cde9891C6966fCe740817cc5576De2C669AB43"
 RPC = "https://rpc.bsc.jetbldr.xyz"
 Website = "https://jetbldr.xyz/"
 Description = "JetBuilder on BSC network"
 Contact = "hi@jetbldr.xyz"
 
-[jetbldr-y]
-Address = "0x69057994D714bDa413B450925A4a6EB057BfE8AC"
-RPC = "https://rpc.bsc.jetbldr.xyz"
-Website = "https://jetbldr.xyz/"
-Description = "JetBuilder on BSC network"
-Contact = "hi@jetbldr.xyz"
-
-[jetbldr-z]
-Address = "0xE5Ae1c733df8a362abD56472aA4a4c817E9A9e84"
-RPC = "https://rpc.bsc.jetbldr.xyz"
-Website = "https://jetbldr.xyz/"
-Description = "JetBuilder on BSC network"
-Contact = "hi@jetbldr.xyz"
 
 # builder: nodereal
 [nodereal-ap]
