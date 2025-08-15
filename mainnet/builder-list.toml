@@ -282,20 +282,38 @@ Contact = "hi@jetbldr.xyz"
 
 
 # builder: nodereal
-[nodereal-ap]
+[nodereal-ap-1]
 Address = "0x79102dB16781ddDfF63F301C9Be557Fd1Dd48fA0"
 RPC = "https://bsc-mainnet-builder-ap.nodereal.io"
 Website = "https://nodereal.io/"
 Description = "Advanced Infrastructure Provider for EVM blockchains."
 
-[nodereal-eu]
+[nodereal-ap-2]
+Address = "0x5B526b45e833704d84b5C2EB0F41323dA9466c48"
+RPC = "https://bsc-mainnet-builder-ap.nodereal.io"
+Website = "https://nodereal.io/"
+Description = "Advanced Infrastructure Provider for EVM blockchains."
+
+[nodereal-eu-1]
 Address = "0xd0d56b330a0dea077208b96910ce452fd77e1b6f"
 RPC = "https://bsc-mainnet-builder-eu.nodereal.io"
 Website = "https://nodereal.io/"
 Description = "Advanced Infrastructure Provider for EVM blockchains."
 
-[nodereal-us]
+[nodereal-eu-2]
+Address = "0xa547F87B2BADE689a404544859314CBC01f2605e"
+RPC = "https://bsc-mainnet-builder-eu.nodereal.io"
+Website = "https://nodereal.io/"
+Description = "Advanced Infrastructure Provider for EVM blockchains."
+
+[nodereal-us-1]
 Address = "0x4f24ce4cd03a6503de97cf139af2c26347930b99"
+RPC = "https://bsc-mainnet-builder-us.nodereal.io"
+Website = "https://nodereal.io/"
+Description = "Advanced Infrastructure Provider for EVM blockchains."
+
+[nodereal-us-2]
+Address = "0xFD3F1Ad459D585C50Cf4630649817C6E0cec7335"
 RPC = "https://bsc-mainnet-builder-us.nodereal.io"
 Website = "https://nodereal.io/"
 Description = "Advanced Infrastructure Provider for EVM blockchains."
