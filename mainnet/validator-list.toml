@@ -84,6 +84,12 @@ Website = "https://www.hashkey.cloud/"
 Description = "HashKey Cloud, as a leading provider of global Web3 infrastructure and a core member of the HashKey Group, focuses on delivering professional, stable, and secure blockchain services to clients worldwide. Since 2018, we have been deeply committed to blockchain infrastructure technologies, with our node validation services covering over 50 mainstream public chains and continuous exploration into Ethereum Layer2 and Bitcoin Lightning Network technologies."
 Contact = "contact@hashkey.cloud"
 
+[infstones]
+Address = "0xCa503a7eD99eca485da2E875aedf7758472c378C"
+RPC = "https://bsc-mev.infstones.com"
+Description = "Contact Us for integrating with InfStones validator"
+Contact = "partnerships@infstones.com"
+
 [Legend-I]
 Address = "0x58567F7A51a58708C8B40ec592A38bA64C0697De"
 URL = "https://legend-i.directstaking.com"
