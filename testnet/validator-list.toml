@@ -36,3 +36,7 @@ RPC = "https://bsc-testnet-kita.bnbchain.org"
 [fuji]
 Address = "0x53387F3321FD69d1E030BB921230dFb188826AFF"
 RPC = "https://bsc-testnet-fuji.bnbchain.org"
+
+[kraken]
+Address = "0x32415e630B9B3489639dEE7de21274Ab64016226"
+RPC = "https://bnb-mev-sentry.eks-ap-northeast-2-secure.staging.staked.cloud"
