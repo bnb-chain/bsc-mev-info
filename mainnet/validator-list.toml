@@ -214,4 +214,4 @@ Description = ""
 
 [kraken]
 Address = "0xCc767841fbB5b79B91EdF7a19EC5bd2F3D334fD8"
-URL = "https://bnb-mev-sentry.prod-eks-eu-west-2.staked.cloud"
+URL = "https://bnb-mev-sentry.staked.cloud"
