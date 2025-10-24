@@ -324,3 +324,10 @@ Address = "0x812720cb4639550D7BDb1d8F2be463F4a9663762"
 RPC = "https://rpc.xzbuilder.com/"
 Website = "https://xzbuilder.com/"
 Description = "XZBuilder - Max profit builder for BSC Blockchain"
+
+# builder: fairbuilder
+[fairbuilder]
+Address = "0x000000000000df5468b64A74B36E3eD30783AaA8"
+RPC = "https://rpc.fairbuilder.xyz/"
+Website = "https://fairbuilder.xyz/"
+Description = "a high-performance, neutral MEV builder optimized for BSC"
