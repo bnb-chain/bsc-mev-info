@@ -69,11 +69,11 @@ EVNNodeIDs = [
   "29f812180266614735cbd2924944b785b21cf75119c79e0e74a3cb648bdc2c7fe9a1ed7e944793312eb251f4beb975d0fb8fd6dee2dde4f56cce1808abf463a6"
 ]
 
-[fuji-builder-ap]
-Address = "0x5EC60f73f938e36400ec3CC3Ff4d7a7703F7c005"
-RPC = "https://bsc-testnet-builder-ap.bnbchain.org"
+[nodereal-builder-ap]
+Address = "0xa5559F1761e6dCa79Ac0c7A301CCDcC71D378fee"
+RPC = "https://bsc-testnet-builder-ap.nodereal.io"
 EVNNodeIDs = [
-  "6f266c2913633e029a990959580221202df80c5e1a0df1c2566f4eb55da2ff742c2ff85f9e00dd97511ccc6c46f63e780789abffcb3bcc2c619006c366ddea67"
+  "17f414ef2cbfa8b9cad13504246a2500b55d870e8ec84e29fcf93331b4fe3ee3bc0626d9f9c83ea49a94a695277fd2d5881f9273e75d3337d32d6f2b34bc3ae0"
 ]
 
 [nodereal-builder-eu]
@@ -81,6 +81,13 @@ Address = "0x6C98EB21139F6E12db5b78a4AeD4d8eBA147FB7b"
 RPC = "https://bsc-testnet-builder-eu.nodereal.io"
 EVNNodeIDs = [
   "3e55ffb100453c42a27e03c895501ef20a96f751b81f4dad8e1851822d9d571f8ebf6d9fef06e828b69e3b67a8e8bae60ce8e996e521051f07ed01c35bbdc6d9"
+]
+
+[nodereal-builder-us]
+Address = "0x4E8cbf5912717B212db5b450ae7737455A5cc0aF"
+RPC = "https://bsc-testnet-builder-us.nodereal.io"
+EVNNodeIDs = [
+  "7292b6d1968dc080c465caf12dc2dac7b199b8fd795dcb6965061aaaa8f5e5c2137b812ed2781c3b20e58478d280e4a07d9873e85bbb59532fd49f504684f17d"
 ]
 
 [bloxroute-builder]
