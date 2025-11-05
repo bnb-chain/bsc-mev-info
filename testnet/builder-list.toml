@@ -100,6 +100,8 @@ EVNNodeIDs = [
 ]
 
 [trustnet-builder]
-Source = "testnet/builders/trustnet-builder.toml"
 Address = "0x7b3ee856c98b1bb3689ef7f90477df2927fcbdb6"
 RPC = "http://18.179.226.190:8575"
+EVNNodeIDs = [
+  "e69373dffa40f31101e152c922eceb07b7343e2723a660556dac80cebc9fb9dc"
+]
