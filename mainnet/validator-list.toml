@@ -8,6 +8,7 @@ RPC = "https://example-rpc.validator.io"
 Website = "https://example-validator.io"
 Description = "This is a example validator on BSC network"
 Contact = "example-validator@mail.com"
+Location = "<city>, <country>, optional, but useful for builders"
 
 [48Club]
 Address = "0x8A239732871AdC8829EA2f47e94087C5FBad47b6"
