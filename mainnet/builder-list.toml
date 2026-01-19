@@ -1,5 +1,6 @@
 # BSC Mainnet Builder List
-# This file contains information about various builders on the BSC mainnet
+# This file was deprecated, pls refer: https://github.com/bnb-chain/good-will-alliance/blob/main/mev-info/bsc-mainnet/builder-list.toml
+# 
 
 [example]
 Address = "0x04d6...73F197ccd186"
