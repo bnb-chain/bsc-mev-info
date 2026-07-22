@@ -105,3 +105,13 @@ RPC = "http://18.179.226.190:8575"
 EVNNodeIDs = [
   "6be488cb5ee9e916be0a4577a4d49f6aa706f74bf83304219992447c693827b1"
 ]
+
+[jetbldr]
+Address = "0xD3204d8769f6AB9359C738415dE5EfB7E9747C63"
+RPC = "https://bsc-testnet-builder.jetbldr.xyz"
+Website = "https://jetbldr.xyz/"
+Description = "JetBuilder on BSC network"
+Contact = "hi@jetbldr.xyz"
+EVNNodeIDs = [
+  "65e6d9ed654e593a7ad56830d3204d8769f6ab9359c738415de5efb7e9747c63"
+]
