@@ -223,3 +223,8 @@ RPC = "https://bsc-mev.blockrazor.io"
 Website = "https://www.blockrazor.io"
 Description = "We build this neutral builder with multiple strategies and algorithms to make most valuable block. Check our website for more info!"
 Contact = "support@blockrazor.io"
+
+[bitlv]
+Address = "0xBECb835D114d7c44525cd54842de095f1dE547E4"
+URL = "https://mev.bitlv.ai"
+Description = ""
