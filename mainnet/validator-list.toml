@@ -223,3 +223,8 @@ RPC = "https://bsc-mev.blockrazor.io"
 Website = "https://www.blockrazor.io"
 Description = "We build this neutral builder with multiple strategies and algorithms to make most valuable block. Check our website for more info!"
 Contact = "support@blockrazor.io"
+
+[squirrel]
+Address = "0x41eb44bA175D6E3Ccef192f9A36cb682051a3277"
+URL = "https://validator.bnbsquirrel.com"
+Description = ""
