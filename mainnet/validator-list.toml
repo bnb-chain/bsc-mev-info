@@ -224,7 +224,7 @@ Website = "https://www.blockrazor.io"
 Description = "We build this neutral builder with multiple strategies and algorithms to make most valuable block. Check our website for more info!"
 Contact = "support@blockrazor.io"
 
-[bitlv]
+[diablo]
 Address = "0x4f372C5145E3Eb9e37A2d816C1fde3A1E75588FD"
 URL = "https://validator.diablo.global/"
 Description = ""
