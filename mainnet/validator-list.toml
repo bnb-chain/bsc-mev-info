@@ -226,5 +226,7 @@ Contact = "support@blockrazor.io"
 
 [bitlv]
 Address = "0xBECb835D114d7c44525cd54842de095f1dE547E4"
-URL = "https://mev.bitlv.ai"
-Description = ""
+RPC = "https://mev.bitlv.ai"
+GRPC = "https://mev.bitlv.ai"
+Website = "https://bitlv.ai"
+Location = "United States"
