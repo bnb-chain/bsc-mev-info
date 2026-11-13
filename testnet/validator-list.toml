@@ -44,3 +44,4 @@ RPC = "https://bnb-mev-sentry.staging.staked.cloud"
 [figment]
 Address = "0xF9a1Db0d6f22Bd78ffAECCbc8F47c83Df9FBdbCf"
 RPC = "https://validator-1.bsc-testnet-sentry.figment.io"
+GRPC = "https://validator-1.bsc-testnet-sentry.figment.io"
