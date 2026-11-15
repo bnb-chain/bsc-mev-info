@@ -67,6 +67,8 @@ RPC = "https://bsc-mev.defibit.io"
 Address = "0x75B851a27D7101438F45fce31816501193239A83"
 RPC = "https://bsc-mainet-sentry-1.staking.production.figment.io"
 RPC = "https://bsc-mainet-sentry-2.staking.production.figment.io"
+RPC = "https://bsc-mainnet-mev.staking.production.figment.io"
+GRPC = "https://bsc-mainnet-mev.staking.production.figment.io"
 
 [fuji]
 Address = "0xbdcc079bbb23c1d9a6f36aa31309676c258abac7"
