@@ -86,6 +86,7 @@ RPC = "https://fk-mev.hashkey.cloud"
 Website = "https://www.hashkey.cloud/"
 Description = "HashKey Cloud, as a leading provider of global Web3 infrastructure and a core member of the HashKey Group, focuses on delivering professional, stable, and secure blockchain services to clients worldwide. Since 2018, we have been deeply committed to blockchain infrastructure technologies, with our node validation services covering over 50 mainstream public chains and continuous exploration into Ethereum Layer2 and Bitcoin Lightning Network technologies."
 Contact = "contact@hashkey.cloud"
+GRPC = "https://fk-mev.hashkey.cloud"
 
 [Legend-I]
 Address = "0x58567F7A51a58708C8B40ec592A38bA64C0697De"
