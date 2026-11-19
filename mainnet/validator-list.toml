@@ -230,3 +230,10 @@ Contact = "support@blockrazor.io"
 Address = "0x4f372C5145E3Eb9e37A2d816C1fde3A1E75588FD"
 URL = "https://validator.diablo.global/"
 Description = ""
+
+[InfStones]
+Address = "0xCa503a7eD99eca485da2E875aedf7758472c378C"
+RPC = "https://bscmev.infstones.com"
+GRPC = "https://bscmev.infstones.com"
+Website = "https://infstones.com"
+Description = "InfStones' easy-to-use blockchain infrastructure gives you all the power and control you need to create products that shape the future of technology."
