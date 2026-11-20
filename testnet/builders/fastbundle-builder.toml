@@ -1,0 +1,7 @@
+Address = "0xf9e5140b638c4238e8020c6bc08d5c4092f8b8b5"
+RPC = "https://testnet.fastbundle.io"
+Website = "https://fastbundle.io"
+Contact = "support@fastbundle.com"
+EVNNodeIDs = [
+    "698c9c564def4173d86328fbcf1feee0c90c803bb9a09e7221cd12bfc85fbb8d",
+]
