@@ -227,7 +227,8 @@ Description = ""
 
 [kraken]
 Address = "0xCc767841fbB5b79B91EdF7a19EC5bd2F3D334fD8"
-URL = "https://bnb-mev-sentry.staked.cloud"
+RPC = "https://bnb-mev-sentry.staked.cloud"
+GRPC = "https://bnb-mev-sentry.staked.cloud"
 
 [blockrazor]
 Address = "0xEdB69D7AE8fE7c21a33e0491e76db241C8e09a5F"
