@@ -19,8 +19,9 @@ Description = "Join the dedicated Telegram Group for integrating with 48Club par
 Contact = "validators@48.club"
 
 [Ankr]
-Address = "0xe7776De78740f28a96412eE5cbbB8f90896b11A5"
+Address = "0x19C014a42Fc5457D6e9FA4678FBF0B6D79cFB606"
 RPC = "https://bnbmev.ankr.com"
+GRPC = "https://bnbmev.ankr.com"
 Website = "https://www.ankr.com"
 Description = "Ankr Staking - makes staking, liquid staking, and other yield-earning opportunities easy and accessible to any crypto investor."
 
@@ -67,10 +68,13 @@ RPC = "https://bsc-mev.defibit.io"
 Address = "0x75B851a27D7101438F45fce31816501193239A83"
 RPC = "https://bsc-mainet-sentry-1.staking.production.figment.io"
 RPC = "https://bsc-mainet-sentry-2.staking.production.figment.io"
+RPC = "https://bsc-mainnet-mev.staking.production.figment.io"
+GRPC = "https://bsc-mainnet-mev.staking.production.figment.io"
 
 [fuji]
 Address = "0xbdcc079bbb23c1d9a6f36aa31309676c258abac7"
 RPC = "https://bsc-mainnet-mev.fujihash.io"
+GRPC = "https://bsc-mainnet-mev.fujihash.io"
 Description = "The is fuji org on BSC network."
 
 [glorin]
@@ -84,50 +88,60 @@ RPC = "https://fk-mev.hashkey.cloud"
 Website = "https://www.hashkey.cloud/"
 Description = "HashKey Cloud, as a leading provider of global Web3 infrastructure and a core member of the HashKey Group, focuses on delivering professional, stable, and secure blockchain services to clients worldwide. Since 2018, we have been deeply committed to blockchain infrastructure technologies, with our node validation services covering over 50 mainstream public chains and continuous exploration into Ethereum Layer2 and Bitcoin Lightning Network technologies."
 Contact = "contact@hashkey.cloud"
+GRPC = "https://fk-mev.hashkey.cloud"
 
 [Legend-I]
 Address = "0x58567F7A51a58708C8B40ec592A38bA64C0697De"
-URL = "https://legend-i.directstaking.com"
+RPC = "https://legend-i.directstaking.com"
+GRPC = "https://legend-i.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-II]
 Address = "0x37e9627A91DD13e453246856D58797Ad6583D762"
-URL = "https://legend-ii.directstaking.com"
+RPC = "https://legend-ii.directstaking.com"
+GRPC = "https://legend-ii.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-III]
 Address = "0x7E1FdF03Eb3aC35BF0256694D7fBe6B6d7b3E0c8"
-URL = "https://legend-iii.directstaking.com"
+RPC = "https://legend-iii.directstaking.com"
+GRPC = "https://legend-iii.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-IV]
 Address = "0xE9436F6F30b4B01b57F2780B2898f3820EbD7B98"
-URL = "https://legend-iv.directstaking.com"
+RPC = "https://legend-iv.directstaking.com"
+GRPC = "https://legend-iv.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-IX]
 Address = "0x9F7110Ba7EdFda83Fc71BeA6BA3c0591117b440D"
-URL = "https://legend-ix.directstaking.com"
+RPC = "https://legend-ix.directstaking.com"
+GRPC = "https://legend-ix.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-V]
 Address = "0x1579ca96EBd49A0B173f86C372436ab1AD393380"
-URL = "https://legend-v.directstaking.com"
+RPC = "https://legend-v.directstaking.com"
+GRPC = "https://legend-v.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-VI]
 Address = "0xd1F72d433f362922f6565FC77c25e095B29141c8"
-URL = "https://legend-vi.directstaking.com"
+RPC = "https://legend-vi.directstaking.com"
+GRPC = "https://legend-vi.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-VII]
 Address = "0x4d15D9BCd0c2f33E7510c0de8b42697CA558234a"
-URL = "https://legend-vii.directstaking.com"
+RPC = "https://legend-vii.directstaking.com"
+GRPC = "https://legend-vii.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-VIII]
 Address = "0xf9814D93b4d904AaA855cBD4266D6Eb0Ec1Aa478"
-URL = "https://legend-viii.directstaking.com"
+RPC = "https://legend-viii.directstaking.com"
+GRPC = "https://legend-viii.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Lista]
@@ -158,6 +172,7 @@ URL = "https://rpc-mev-nexa.fujihash.io"
 [nodereal]
 Address = "0x5009317fd4f6f8feea9dae41e5f0a4737bb7a7d5"
 RPC = "https://bsc-mainnet-mev.nodereal.io"
+GRPC = "https://bsc-mainnet-mev.nodereal.io"
 Website = "https://nodereal.io/"
 Description = "Advanced Infrastructure Provider for EVM blockchains."
 
@@ -215,7 +230,8 @@ Description = ""
 
 [kraken]
 Address = "0xCc767841fbB5b79B91EdF7a19EC5bd2F3D334fD8"
-URL = "https://bnb-mev-sentry.staked.cloud"
+RPC = "https://bnb-mev-sentry.staked.cloud"
+GRPC = "https://bnb-mev-sentry.staked.cloud"
 
 [blockrazor]
 Address = "0xEdB69D7AE8fE7c21a33e0491e76db241C8e09a5F"
@@ -230,3 +246,9 @@ RPC = "https://mev.bitlv.ai"
 GRPC = "https://mev.bitlv.ai"
 Website = "https://bitlv.ai"
 Location = "United States"
+[diablo]
+Address = "0x4f372C5145E3Eb9e37A2d816C1fde3A1E75588FD"
+URL = "https://validator.diablo.global/"
+RPC = "https://validator.diablo.global"
+GRPC = "https://validator.diablo.global"
+Description = ""
