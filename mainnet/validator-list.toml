@@ -19,8 +19,9 @@ Description = "Join the dedicated Telegram Group for integrating with 48Club par
 Contact = "validators@48.club"
 
 [Ankr]
-Address = "0xe7776De78740f28a96412eE5cbbB8f90896b11A5"
+Address = "0x19C014a42Fc5457D6e9FA4678FBF0B6D79cFB606"
 RPC = "https://bnbmev.ankr.com"
+GRPC = "https://bnbmev.ankr.com"
 Website = "https://www.ankr.com"
 Description = "Ankr Staking - makes staking, liquid staking, and other yield-earning opportunities easy and accessible to any crypto investor."
 
