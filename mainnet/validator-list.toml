@@ -240,4 +240,6 @@ Contact = "support@blockrazor.io"
 [diablo]
 Address = "0x4f372C5145E3Eb9e37A2d816C1fde3A1E75588FD"
 URL = "https://validator.diablo.global/"
+RPC = "https://validator.diablo.global"
+GRPC = "https://validator.diablo.global"
 Description = ""
