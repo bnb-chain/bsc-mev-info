@@ -90,47 +90,56 @@ GRPC = "https://fk-mev.hashkey.cloud"
 
 [Legend-I]
 Address = "0x58567F7A51a58708C8B40ec592A38bA64C0697De"
-URL = "https://legend-i.directstaking.com"
+RPC = "https://legend-i.directstaking.com"
+GRPC = "https://legend-i.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-II]
 Address = "0x37e9627A91DD13e453246856D58797Ad6583D762"
-URL = "https://legend-ii.directstaking.com"
+RPC = "https://legend-ii.directstaking.com"
+GRPC = "https://legend-ii.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-III]
 Address = "0x7E1FdF03Eb3aC35BF0256694D7fBe6B6d7b3E0c8"
-URL = "https://legend-iii.directstaking.com"
+RPC = "https://legend-iii.directstaking.com"
+GRPC = "https://legend-iii.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-IV]
 Address = "0xE9436F6F30b4B01b57F2780B2898f3820EbD7B98"
-URL = "https://legend-iv.directstaking.com"
+RPC = "https://legend-iv.directstaking.com"
+GRPC = "https://legend-iv.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-IX]
 Address = "0x9F7110Ba7EdFda83Fc71BeA6BA3c0591117b440D"
-URL = "https://legend-ix.directstaking.com"
+RPC = "https://legend-ix.directstaking.com"
+GRPC = "https://legend-ix.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-V]
 Address = "0x1579ca96EBd49A0B173f86C372436ab1AD393380"
-URL = "https://legend-v.directstaking.com"
+RPC = "https://legend-v.directstaking.com"
+GRPC = "https://legend-v.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-VI]
 Address = "0xd1F72d433f362922f6565FC77c25e095B29141c8"
-URL = "https://legend-vi.directstaking.com"
+RPC = "https://legend-vi.directstaking.com"
+GRPC = "https://legend-vi.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-VII]
 Address = "0x4d15D9BCd0c2f33E7510c0de8b42697CA558234a"
-URL = "https://legend-vii.directstaking.com"
+RPC = "https://legend-vii.directstaking.com"
+GRPC = "https://legend-vii.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Legend-VIII]
 Address = "0xf9814D93b4d904AaA855cBD4266D6Eb0Ec1Aa478"
-URL = "https://legend-viii.directstaking.com"
+RPC = "https://legend-viii.directstaking.com"
+GRPC = "https://legend-viii.directstaking.com"
 Contact = "legend@directstaking.com"
 
 [Lista]
