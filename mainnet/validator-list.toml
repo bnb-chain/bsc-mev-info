@@ -179,7 +179,8 @@ Description = "Advanced Infrastructure Provider for EVM blockchains."
 
 [novax]
 Address = "0x978f05ced39a4eafa6e8fd045fe2dd6da836c7df"
-URL = "https://rpc-mev-novax.fujihash.io"
+RPC = "https://rpc-mev-novax.fujihash.io"
+GRPC = "https://rpc-mev-novax.fujihash.io"
 
 [nozti]
 Address = "0x18c44f4fbede9826c7f257d500a65a3d5a8edebc"
